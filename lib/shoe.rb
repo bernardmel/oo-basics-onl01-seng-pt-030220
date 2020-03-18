@@ -9,6 +9,6 @@ attr_reader :brand
 
 def cobble
   puts "The shoe has been repaired"
-  
+end
 
 end
