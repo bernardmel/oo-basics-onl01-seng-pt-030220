@@ -8,7 +8,7 @@ attr_reader :brand
   end
 
 def cobble
-  puts "The shoe has been repaired"
+  puts "The shoe is good as new!"
   @condition = new
 end
 
